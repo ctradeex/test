@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Welcome!](README.md)
-* [Quick Start](quick-start.md)
+* [首页](README.md)
+* [快速开始](kuai-su-kai-shi/README.md)
+  * [幂等请求](kuai-su-kai-shi/mi-deng-qing-qiu.md)
 
 ## Reference
 
